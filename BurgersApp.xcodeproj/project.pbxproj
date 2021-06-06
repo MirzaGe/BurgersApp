@@ -59,12 +59,20 @@
 				44B9BB22266D71B4007C63AF /* AppDelegate.swift */,
 				44B9BB24266D71B4007C63AF /* SceneDelegate.swift */,
 				44B9BB26266D71B4007C63AF /* ViewController.swift */,
-				44B9BB28266D71B4007C63AF /* Main.storyboard */,
-				44B9BB2B266D71B6007C63AF /* Assets.xcassets */,
-				44B9BB2D266D71B6007C63AF /* LaunchScreen.storyboard */,
+				44B9BB37266D748D007C63AF /* SupportingFIles */,
 				44B9BB30266D71B6007C63AF /* Info.plist */,
 			);
 			path = BurgersApp;
+			sourceTree = "<group>";
+		};
+		44B9BB37266D748D007C63AF /* SupportingFIles */ = {
+			isa = PBXGroup;
+			children = (
+				44B9BB28266D71B4007C63AF /* Main.storyboard */,
+				44B9BB2B266D71B6007C63AF /* Assets.xcassets */,
+				44B9BB2D266D71B6007C63AF /* LaunchScreen.storyboard */,
+			);
+			path = SupportingFIles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
